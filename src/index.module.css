@@ -1,0 +1,8 @@
+/* src/index.module.css */
+.main {
+    padding-top: 60px; /* Adjust to ensure content is not hidden behind the fixed header */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
